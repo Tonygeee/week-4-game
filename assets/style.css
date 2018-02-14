@@ -1,0 +1,56 @@
+body{
+	background-image: url("Images/backroung_image.jpg");
+}
+
+h1{
+	text-align: center;
+	color: #ffffff;
+}
+
+h3{
+	text-align: center;
+	margin-top: 30px;
+	color: #ffffff;
+}
+p{
+	font-size: 15px;
+	color: #ffffff;
+}
+
+img{
+	width: 120px;
+	height: 120px;
+}
+
+#wins{
+	color: #ffffff;
+}
+
+#losses{
+	color: #ffffff;
+}
+
+
+#count{
+	color: #ffffff;
+	border: 2px solid #ffffff;
+	margin-top: 50px;
+}
+
+#randomNum{
+	color: #ffffff;
+	border: 2px solid #ffffff;
+	margin-top: 50px;
+}
+
+#guess{
+	color: #ffffff;
+}
+#footer1{
+	color: #ffffff;
+	margin-left: 200px;
+}
+#footer2{
+	color: #ffffff;
+	margin-left: 200px;
+}
